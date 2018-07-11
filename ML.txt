@@ -2,3 +2,4 @@ https://developers.google.com/machine-learning/crash-course/ml-intro
 https://www.datacamp.com/community/tutorials/matplotlib-tutorial-python
 https://github.com/joyjit/git-jira-hook
 https://pypi.org/project/exchangelib/
+https://www.idiotinside.com/2014/10/19/top-30-python-projects-in-github/
