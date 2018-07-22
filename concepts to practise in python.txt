@@ -1,0 +1,15 @@
+multi threading
+
+optimization in data structures
+
+web programming, beyond basis of django and flask
+which includes admin activities
+page redirection
+data handling 
+storing objects and models in the data base
+comparing 
+
+simulation 
+
+benchmarking 
+
