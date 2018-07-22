@@ -1,15 +1,33 @@
-multi threading
+1) multi threading
 
-optimization in data structures
+2) optimization in data structures
 
-web programming, beyond basis of django and flask
+3) web programming, beyond basis of django and flask
 which includes admin activities
 page redirection
 data handling 
 storing objects and models in the data base
 comparing 
 
-simulation 
+4) simulation 
 
-benchmarking 
+5) benchmarking 
+
+6) start writing test cases along with the code
+
+7) start using packaging and building like conda
+
+8) regression testing using the jenkins
+
+9) then deploy
+
+10) work with the ORM models
+
+11) advance in pandas and UI presentation
+
+12) running other codes like java and c in python and working with them
+
+13) web services
+
+14) rest services 
 
