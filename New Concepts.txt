@@ -1,0 +1,15 @@
+SRDF
+symmetrics remote data facility
+
+this system is to ensure that the data in primary server is backed up into remote server bit to bit
+in a efficient manner, so that in case of casuality you have the power to resume service
+
+this is a product of EMC and it is their flagship product
+it uses the RAID technology
+there needs to be 2 symmetrics systems 
+primary will write data to symmetrics and that will intern write data to another symmetrics system through the links 
+and that symmetrics at the secondary site will then write into backup server
+
+RAID redundant array of indepedent disks 
+is a storage management systems that looks after distributing the data among various disks 
+to achieve high performance, protection and manage the storage 
