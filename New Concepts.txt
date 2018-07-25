@@ -13,3 +13,6 @@ and that symmetrics at the secondary site will then write into backup server
 RAID redundant array of indepedent disks 
 is a storage management systems that looks after distributing the data among various disks 
 to achieve high performance, protection and manage the storage 
+
+Fork the repository
+https://guides.github.com/activities/forking/
