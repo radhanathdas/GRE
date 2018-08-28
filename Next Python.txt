@@ -2,3 +2,5 @@ Next Python
 
 1) http://docs.python-requests.org/en/latest/index.html
 2) http://www.sharats.me/posts/serializing-python-requests-session-objects-for-fun-and-profit/
+https://cscircles.cemc.uwaterloo.ca/
+http://openbookproject.net/thinkcs/python/english2e/ch01.html
