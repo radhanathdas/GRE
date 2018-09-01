@@ -30,3 +30,6 @@ right shift , shit the bits right, generally the number halves when moved by 1 a
 
 https://en.wikipedia.org/wiki/Gray_code
 https://www.computerhope.com/keys.htm
+
+best explaination for Finite Automata
+https://www.cs.rochester.edu/~nelson/courses/csc_173/fa/fa.html
