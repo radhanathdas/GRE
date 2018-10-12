@@ -1,4 +1,5 @@
-
+http://www.shanghairanking.com/SubjectCS2015.html
+https://www.timeshighereducation.com/world-university-rankings/2018/reputation-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
 
 USC
 last date for scholarship is 15th Dec 
@@ -13,10 +14,55 @@ https://www.cs.ucla.edu/
 https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/
 https://www.registrar.ucla.edu/Calendars/Annual-Academic-Calendar
 
+University of California, San Diego
+last date December 17
+https://apply.grad.ucsd.edu/departments/computer-science-and-engineering#computer-science-cs75
+https://cse.ucsd.edu/graduate/degree-programs/ms-program
+
+University of California, Santa Barbara
+last date December 15
+https://my.sa.ucsb.edu/catalog/Current/CollegesDepartments/coe/compsci-engr.aspx?DeptTab=Graduate
+
+Wisconsin
+http://www.cs.wisc.edu/academics/graduate-programs
+December 15
+http://www.cs.wisc.edu/academics/graduate-programs/apply-regular-MS-PhD
+
+UC Davis
+https://www.ucdavis.edu/majors/blog/exploring-options/5-ways-head-start-graduate-school
+Jan 15, 2019
+
+U Maryland 
+http://www.cs.umd.edu/grad/
+December 15 
+http://www.cs.umd.edu/grad/catalog
+
+U Michigan
+
+https://umdearborn.edu/students/registration-records
+
+TAMU
+https://engineering.tamu.edu/admissions-and-aid/graduate.html
+https://engineering.tamu.edu/admissions-and-aid/prospective-students/admissions.html
+
+University of Illinois at Urbana Champaign
+December 15 
+https://cs.illinois.edu/academics/graduate/ms-program
+https://cs.illinois.edu/calendar
+http://catalog.illinois.edu/graduate/graduate-majors/computer-science/ms-comp-science/
+https://cs.illinois.edu/admissions/graduate/applications-process-requirements
+
+University of California, Davis
+January 15
+http://www.cs.ucdavis.edu/graduate/prospective/
+http://www.cs.ucdavis.edu/graduate/prospective/#instructions
+http://www.cs.ucdavis.edu/graduate/current/masters/
+125$
+
 Hard
 UCLA
 Cornell University
-Carnegie Mellon University
+Carnegie Mellon University-X- no computer science course
 Northwestern University
 California Institute of Technology
 University of Pennsylvania
@@ -27,13 +73,13 @@ University of Chicago
 getable
 University of Wisconsin Madison
 University of Southern California
-University of California, San Diego
+University of California, San Diego (quite competitive)
 University of California, Santa Barbara
 University of California, Davis
 Texas A&M U
-University of California, Irvine
+University of California, Irvine - X they do not have computer science 
 University of Illinois at Urbana Champaign
-University of Texas at Austin
+University of Texas at Austin - X they do not have computer science 
 
 either go for 
 3:7
@@ -43,3 +89,13 @@ either go for
 ranking
 https://www.topuniversities.com/university-rankings-articles/world-university-rankings/top-universities-us-2018
 http://www.shanghairanking.com/ARWU2018.html
+
+Dec 1st deadline 
+be ready by November mid, should have accounts in all the colleges 
+Nov 1st be ready with recommendation and SOP and all formalities 
+
+colleges sent the score freely 
+4852
+4837
+2926
+4229
