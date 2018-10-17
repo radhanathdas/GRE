@@ -1,7 +1,11 @@
 http://www.shanghairanking.com/SubjectCS2015.html
+https://www.topuniversities.com/university-rankings-articles/world-university-rankings/top-universities-us-2018
 https://www.timeshighereducation.com/world-university-rankings/2018/reputation-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
+http://www.shanghairanking.com/ARWU2018.html
 
-USC
+apply for computer and information science only from top university 
+
+USC (only computer science)
 last date for scholarship is 15th Dec 
 tution is 16k for 4 units, so 16x4 
 total cost is 65k, does not include residential
@@ -9,13 +13,11 @@ https://viterbigradadmission.usc.edu/
 https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/
 https://viterbigradadmission.usc.edu/programs/masters/msprograms/computer-science/ms-computer-science/
 
-
-UCLA
+UCLA (only computer science)
 last date for scholarship is 01st Dec 
 https://www.cs.ucla.edu/
 https://www.cs.ucla.edu/graduate-admission-frequently-asked-questions/
 https://www.registrar.ucla.edu/Calendars/Annual-Academic-Calendar
-
 
 University of California, San Diego
 last date December 17
@@ -66,6 +68,9 @@ http://www.cs.ucdavis.edu/graduate/prospective/#instructions
 http://www.cs.ucdavis.edu/graduate/current/masters/
 125$
 
+Georgia 
+http://www.bursar.gatech.edu/content/tuition-fees
+
 Hard
 UCLA
 Cornell University
@@ -93,10 +98,6 @@ either go for
 4:6
 4:7
 
-ranking
-https://www.topuniversities.com/university-rankings-articles/world-university-rankings/top-universities-us-2018
-http://www.shanghairanking.com/ARWU2018.html
-
 Dec 1st deadline 
 be ready by November mid, should have accounts in all the colleges 
 Nov 1st be ready with recommendation and SOP and all formalities 
@@ -115,21 +116,6 @@ also call the office and check once
 1) get the transcripts and then send the transcripts 
 2) LOR, minimum 3 , how to submit 
 3) SOP
-
-
-https://www.quora.com/How-do-I-write-a-strong-SOP-for-an-MS-in-CS
-do you have the skills, there are many why you
-communication
-writing
-leadership
-persistence
-planning and execution of ideas
-do you know, what you are getting into
-why us 
-
-why did you choose computer science and why are you pursuing the master 
-
-Fuck, computer science is hard and the bar is high, i need to re assess the situation
 
 high
 UCLA
@@ -167,24 +153,13 @@ https://yocket.in/profiles/RohanKadekodi
 Engineering, Information Management
 https://yocket.in/profiles/tejassab
 
-
-information science
-https://gradschool.cornell.edu/academics/fields-of-study/subject/information-science/information-science-mps-ithaca/#section-4
-
-
-must apply
-course is too good
-38k per semester, total is 120k way too expensive, i am thinking of dropping this one off
-https://www.heinz.cmu.edu/programs/information-systems-management-master/ 
-https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=cmu-spp
-https://www.cmu.edu/sfs/tuition/graduate/hc-ism.html
-
 https://www.quora.com/Which-are-top-universities-in-the-US-for-MIS
 
-
-TAMU, MIS is affordable apply
+TAMU (best MIS)
+University of Illinois at Urbana-Champaign (second best) 12k per semester x 3.5
 University of Michigan
-University of Maryland
+University of Maryland (not that good)
+Newyork University (good mix of IT and Business, application process is clunky)
 
 https://mays.tamu.edu/ms-management-information-systems/
 https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantLogin.asp?id=tamu-ms
@@ -198,8 +173,13 @@ https://ischool.umd.edu/mim
 https://ischool.umd.edu/mim-admissions
 tution is 18k
 
-https://www.quora.com/How-do-so-many-Indians-afford-to-do-MS-in-USA-How-do-people-without-property-to-sell-or-money-in-savings-pay-for-these-schools/answer/Sandeepan-Bose-1
+https://cs.nyu.edu/home/master/prospective_msis.html
+http://gsas.nyu.edu/admissions/gsas-application-resource-center.html
+https://apply.gsas.nyu.edu/apply/
 
+https://ischool.illinois.edu/degrees-programs/ms-information-management
+
+https://www.quora.com/How-do-so-many-Indians-afford-to-do-MS-in-USA-How-do-people-without-property-to-sell-or-money-in-savings-pay-for-these-schools/answer/Sandeepan-Bose-1
 
 *********
 checklist
@@ -225,11 +205,60 @@ After that, start working on your profile to get the job you’re interested in 
 2) Apart from the regular coursework, spend a lot of time on personal projects.  It helps you stand out from the crowd. 
 3) Choose your electives wisely. 4) Enjoy your time in College Station; you will not get it again!
 
+jobs for me
+relevant and challenging 
+- i have already studied these and they are extension to what i know and an do
+hard, very challenging and risk
+- many of the things would be new to me and i do not have the ability yet to perform on those areas
+
 Write a brief (1000 -2000 word) statement addressing the following two questions:
 What are your reasons for undertaking graduate study at the University of Maryland, College Park? 
-Indicate, if appropriate any specific areas of research interest. You may wish to discuss past work in your intended field or allied fields, 
+Indicate, if appropriate any specific areas of research interest. 
+You may wish to discuss past work in your intended field or allied fields, 
 your plans for a professional career, or how you developed your interest in or knowledge of your chosen subject.
 What life experiences have prepared you to pursue a graduate degree at a large and diverse institution such as the University of Maryland? 
 Among the items you might care to include would be your financial, community and family background, or whether you are the first person in your family to 
 pursue higher education or any other factors that you believe would contribute to the diversity of our academic community. You may also wish to give the graduate 
 admissions committee some examples of your determination to purse your goals, your initiative and ability to develop ideas, and/or your capacity for working through problems independently.
+
+https://www.quora.com/How-do-I-write-a-strong-SOP-for-an-MS-in-CS
+do you have the skills, there are many why you
+communication
+writing
+leadership
+persistence
+planning and execution of ideas
+do you know, what you are getting into
+why us 
+
+why did you choose computer science and why are you pursuing the master 
+Fuck, computer science is hard and the bar is high, i need to re assess the situation
+
+tuition fees per semester, you need min 3 semesters to finish graduations
+mandatory student fees 
+health insurance 
+
+top 20
+Texas A&M U , 12k , IS (1 must)
+University of California, Los Angeles (UCLA) , 32k , CS (2 must)
+University of Pennsylvania , 30k , CS (3 must)
+University of Illinois at Urbana-Champaign, 63k , IS **Too expensive**
+University of Michigan , 87k , IS **Too expensive**
+Cornell University (Cornell) , 50k, CS
+
+top 30
+
+University of California, San Diego (UCSD) , 25k , CS (4 must)
+USC private uni so expensive, 51k , CS (7 must)
+University of California, Davis (UC Davis) , 28k, CS (8 must)
+Pennsylvania State University (Penn State) , 34k , CS
+University of California, Santa Barbara (UCSB) , 28k , CS
+Northwestern University , 48k, CS
+University of Wisconsin Madison
+
+safe
+Arizona State University , 23k , CS (5 must)
+University of Florida
+University of California, Irvine , 27k , CS (6 must)
+University of Colorado Boulder , 30, CS ( 10 must)
+Rice University ( 9 must)
