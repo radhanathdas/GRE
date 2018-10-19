@@ -1,4 +1,5 @@
 http://www.shanghairanking.com/SubjectCS2015.html
+http://www.shanghairanking.com/Shanghairanking-Subject-Rankings/computer-science-engineering.html
 https://www.topuniversities.com/university-rankings-articles/world-university-rankings/top-universities-us-2018
 https://www.timeshighereducation.com/world-university-rankings/2018/reputation-ranking#!/page/0/length/25/sort_by/rank/sort_order/asc/cols/stats
 http://www.shanghairanking.com/ARWU2018.html
@@ -239,7 +240,6 @@ mandatory student fees
 health insurance 
 
 top 20
-Texas A&M U , 12k , IS (1 must)
 University of California, Los Angeles (UCLA) , 32k , CS (2 must)
 University of Pennsylvania , 30k , CS (3 must)
 University of Illinois at Urbana-Champaign, 63k , IS **Too expensive**
@@ -249,16 +249,35 @@ Cornell University (Cornell) , 50k, CS
 top 30
 
 University of California, San Diego (UCSD) , 25k , CS (4 must)
-USC private uni so expensive, 51k , CS (7 must)
-University of California, Davis (UC Davis) , 28k, CS (8 must)
+USC private uni so expensive, 51k , CS (5 must)
 Pennsylvania State University (Penn State) , 34k , CS
 University of California, Santa Barbara (UCSB) , 28k , CS
+University of California, Davis (UC Davis) , 28k, CS (6 must)
 Northwestern University , 48k, CS
 University of Wisconsin Madison
+Georgia Institute of Technology , 28k, (10 must)
 
 safe
-Arizona State University , 23k , CS (5 must)
+Texas A&M U , 12k , IS (1 must)
+Arizona State University , 23k , CS (7 must)
 University of Florida
-University of California, Irvine , 27k , CS (6 must)
-University of Colorado Boulder , 30, CS ( 10 must)
-Rice University ( 9 must)
+University of California, Irvine , 27k , CS (8 must)
+University of Colorado Boulder , 30, CS (9 must)
+Pennsylvania State University
+
+
+######################################################################################
+UCLA 
+Compter Science
+https://apply.grad.ucla.edu/account/login?r=https%3a%2f%2fapply.grad.ucla.edu%2fapply%2fstatus
+manjit.ullal.01@gmail.com
+StarVicmax1#
+
+Arizona State University 
+Compter Science
+https://webapp4.asu.edu/dgsadmissions/Index.jsp
+manjit.ullal.01@gmail.com
+StarVicmax1#
+APPLICATION ID: 1099249
+
+
