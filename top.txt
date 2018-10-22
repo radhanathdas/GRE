@@ -261,15 +261,18 @@ Texas A&M U , 12k , IS (1 must)
 Arizona State University , 23k , CS (7 must)
 University of Florida
 University of California, Irvine , 27k , CS (8 must)
-University of Colorado Boulder , 30, CS (9 must)
+University of Colorado Boulder , 30, CS (9 must) **	
 Pennsylvania State University
 University of Texas at Dallas
 Northeastern University
 University of Illinois at Chicago, CS
-MINNESOTA, TWIN CITIES, Business Analytics
+
 University of California, Irvine, Business Analytics
 Purdue University West Lafayette , Masters in Business Analytics and Information Management 
 Masters in Business Analytics , University of Cincinnati
+MS in Data Science Columbia University
+MINNESOTA, TWIN CITIES, Business Analytics
+Masters in Data Science , University of Minnesota, Twin Cities
 
 
 why graduate progran
