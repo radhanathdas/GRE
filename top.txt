@@ -342,13 +342,20 @@ StarVicmax1#
 https://choose.umn.edu/apply/
 
 top
-uni pennsylvania, Computer and Information Science (faculty is world class)
-UCLA, Computer Science (faculty is world class)
-Columbia University, Data science
-Uni southern california , 
-Uni Minnesota twin cities, Data science
+uni pennsylvania, Computer and Information Science (faculty is world class) **started
+UCLA, Computer Science (faculty is world class) **started
+Columbia University, Data science **started
+Uni southern california , CS
+Uni Minnesota twin cities, Data science **started
+Pennstate university , https://ist.psu.edu/application/grad
 
 gettable
-texas A&M U, IS
-Arizona state uni, CS
+texas A&M U, IS **started
+Arizona state uni, CS **started
+University at Buffalo SUNY, CS
+University of Texas at Dallas, CS
+University of California, Santa Barbara, CS
+Pennsylvania State University, IS
+
+
 
