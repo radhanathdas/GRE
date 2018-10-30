@@ -311,35 +311,65 @@ choose wisely
 choosing universities is harder that writing an sop
 because no matter how good is your sop it wont cut it for the top universities
 ######################################################################################
-UCLA 
-Compter Science
+1
+UCLA Compter Science
 https://apply.grad.ucla.edu/account/login?r=https%3a%2f%2fapply.grad.ucla.edu%2fapply%2fstatus
 manjit.ullal.01@gmail.com
 StarVicmax1#
 
-Arizona State University 
-Compter Science
+2
+University of Columbia, Masters data science
+https://applynow.engineering.columbia.edu/security/login.aspx?ReturnUrl=%2fdefault.aspx
+StarVicmax1#
+
+3
+University of Pennsylvania , Master of CIS 
+https://www.applyweb.com/upenng/index.ftl
+StarVicmax1#
+
+4
+PennState, Information and Technology
+https://webaccess.psu.edu/cgi-bin/logout?url=http://gradschool.psu.edu/
+StarVicmax1#
+penn state id 946415092
+userid mgu5013
+
+
+5
+Northeastern, Data Science
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad
+manjit.ullal.01@gmail.com
+StarVicmax1#
+
+6
+Arizona State University Compter Science
 https://webapp4.asu.edu/dgsadmissions/Index.jsp
 manjit.ullal.01@gmail.com
 StarVicmax1#
 APPLICATION ID: 1099249
 
+7
 Texas A&M, Masters of Science in Management of Information Science
 https://app.applyyourself.com/common/fl_ApplicantLogout.asp?CID=365&ID=TAMU-MS&d=10%2F22%2F2018+3%3A05%3A00+AM&AYID=85EE3EC-A4F7-4F77-B925-68A58EC1BBB
 AB3B787527T7
 StarVicmax1#
 
-University of Pennsylvania , Master of CIS 
-https://www.applyweb.com/upenng/index.ftl
-StarVicmax1#
-
-University of Columbia, Masters data science
-https://applynow.engineering.columbia.edu/security/login.aspx?ReturnUrl=%2fdefault.aspx
-StarVicmax1#
-
+8
 University of Minnesota twin cities, Masters data science
 StarVicmax1#
 https://choose.umn.edu/apply/
+
+9
+Buffalo, Compter Science
+User Name:	ULLALMANJI
+Password:	26994
+Student Portal URL:	https://www.gradmit.buffalo.edu/etw/gradmit.asp
+
+10
+Uni Florida, Computer Science
+StarVicmax1#
+https://www.applyweb.com/uflgrad/index.ftl
+
 
 top
 uni pennsylvania, Computer and Information Science (faculty is world class) **started
@@ -353,9 +383,13 @@ gettable
 texas A&M U, IS **started
 Arizona state uni, CS **started
 University at Buffalo SUNY, CS
-University of Texas at Dallas, CS
-University of California, Santa Barbara, CS
 Pennsylvania State University, IS
 
+
+https://www.northeastern.edu/graduate/program/master-of-science-in-data-science-5256/
+https://app.applyyourself.com/AYApplicantLogin/fl_ApplicantConnectLogin.asp?id=neu-grad
+
+https://www.cise.ufl.edu/academics/grad
+https://www.usnews.com/best-graduate-schools/top-engineering-schools/eng-rankings
 
 
