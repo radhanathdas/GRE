@@ -1,0 +1,32 @@
+recommendation
+Bikash, Ram, Rajiv
+recommendation
+Bikash, Vinod, Rajiv
+
+
+01) University of Columbia, Masters in Data Science
+02) New York University, Masters in Data Science 
+03) Texas A&M, Masters of Science in Management of Information Science
+04) PennState, Masters in Information and Technology
+05) Northeastern University, Masters in Data Science
+06) University of Southern California , Masters in Data Science - Not started 
+
+recommendation
+Vinod, Sethu, Preetham
+recommendation
+Ram, Sethu, Preetham
+
+07) Stony Brook, New york, Computer science
+08) San Jose University , California , Computer science
+09) Rutgers, The State University, Masters Data Science - Not started
+10) Arizona State University, Master in Computer Science
+11) University at Buffalo, Master in Computer Science
+12) University at Florida, Master in Computer Science - X
+
+Stony brook - X
+Uni Mas Amherst - X
+UTD
+San Jose
+Uni of Illionoi chicago 
+
+https://www.quora.com/How-should-a-statement-of-purpose-for-Masters-in-Data-science-be
