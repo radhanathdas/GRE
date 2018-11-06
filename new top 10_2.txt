@@ -1,6 +1,6 @@
-recommendation
-Bikash, Ram, Rajiv
-recommendation
+1 recommendation
+Vinod, Ram, Rajiv
+1 recommendation - X
 Bikash, Vinod, Rajiv
 
 
@@ -11,9 +11,9 @@ Bikash, Vinod, Rajiv
 05) Northeastern University, Masters in Data Science
 06) University of Southern California , Masters in Data Science - Not started 
 
-recommendation
-Vinod, Sethu, Preetham
-recommendation
+2 recommendation
+Bikash, Sethu, Preetham
+2 recommendation - X
 Ram, Sethu, Preetham
 
 07) Stony Brook, New york, Computer science
