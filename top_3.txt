@@ -156,4 +156,10 @@ New york university data science
 UTD
 https://utdallasapp.force.com/TX_SiteLogin?startURL=%2FTargetX_Portal__PB
 
+14
+Rutgers
+https://admissionservices.rutgers.edu/graduate/returnUserLogin.app
+manjitg
+819766
+
 
