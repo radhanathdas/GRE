@@ -4,3 +4,4 @@ Next Python
 2) http://www.sharats.me/posts/serializing-python-requests-session-objects-for-fun-and-profit/
 https://cscircles.cemc.uwaterloo.ca/
 http://openbookproject.net/thinkcs/python/english2e/ch01.html
+https://jakevdp.github.io/PythonDataScienceHandbook/
