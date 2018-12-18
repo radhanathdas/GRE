@@ -5,6 +5,7 @@ Next Python
 https://cscircles.cemc.uwaterloo.ca/
 http://openbookproject.net/thinkcs/python/english2e/ch01.html
 https://jakevdp.github.io/PythonDataScienceHandbook/
+http://web.mnstate.edu/schwartz/centurylist2.html
 
 Hello Bikash,
 I have figured out in the last few days that, a lot of clever applicants have already applied by early November and before, to the same universities as mine and have already received the admit.
