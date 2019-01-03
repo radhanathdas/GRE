@@ -1,0 +1,70 @@
+how does tatooing work
+
+automated sensoring through machine learning and AI
+there is already a solution from google on this 
+
+create a profile of a player by using the video analysis
+and then use that model of the player to run through various simulations and then see how they perform and then based on the positives and the negatives 
+train the player or alter the tactices 
+
+this can be the engine to do all sort of simulations
+
+https://techxplore.com/news/2018-12-language-behavior-artificially-intelligent-motion.html
+
+
+place the laptop track pad onto the movable mouse 
+idea is that we have to move the mouse a lot which is quite in efficient 
+
+how to reduce the momentum of the collision such that when there is an accident then the casuality is limited 
+this can be applied to any collision not just between cars 
+the ideal state would be that 
+2 cars are coming at full speed and when they collide there is only a minor brush 
+
+
+make workplace more engaging and productive 
+problems friction in the system from the people and many feel its not needed 
+
+reduction of resources
+changes in manufacturing 
+recycling 
+usage of plastic 
+usage of paper 
+use of electricity 
+transporation 
+food 
+authorized BOT collection system
+ways of storage 
+
+ask new questions or give inspired answers 
+
+design a simple logic gates device 
+and a electro magnet
+
+https://www.quora.com/What-is-%E2%80%9Com%E2%80%9D-or-%E2%80%9Caum-%E2%80%9D-and-what-is-its-mythological-cultural-scientific-religious-and-social-significance-Why-is-it-claimed-to-have-all-of-the-vibrations-of-universe/answer/Farbe-Glauben
+http://elements.wlonk.com/ElementUses.htm
+
+send the CSL 
+
+go home and make notes out of nistelrooy 
+
+10-20 pages of code 
+10-20 pages of art of programming 
+20-30 hard python 
+
+He’s not into science for science’s sake – he wants to understand his world and make it better. 
+“I see the world as a really dynamic place that I can change and affect,” he said in his appearance on The Ellen DeGeneres Show. 
+“And I love to use the math and science I’ve learned to help people.”
+Aware of the problems and looking to provide the solutions with the things learnt 
+Failure is progress and a normal part of the process. Whether it’s science or life, you have to start, fail and just keep pushing.
+
+https://ideas.ted.com/this-scientist-has-three-patents-pending-he-also-happens-to-be-12/
+https://ideas.ted.com/meet-the-genius-scientist-transforming-the-world-on-a-shoestring/
+https://www.theguardian.com/technology/2009/oct/23/mysterious-cable-uk-us
+https://www.quora.com/Can-I-cut-the-submarine-Internet-cables-and-destroy-the-world-What-would-happen
+
+
+
+
+
+
+
